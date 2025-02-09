@@ -1,7 +1,8 @@
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="left">Hey there! 👋</h1>
 
-<p align="center"> <b>My name is Lucas. I'm a software engineering student at the University of Brasilia. </b></p>
+<p align="left"> <b>My name is Lucas. I'm a software engineering student at the University of Brasilia.</b></p>
+<p align="left"> <b>I am currently delving into the study of Python, with a particular focus on artificial intelligence and data analysis.</b></p>
 <hr>
 
 <h2 align="left">Connect with me</h2>
