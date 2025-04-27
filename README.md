@@ -23,8 +23,6 @@
   </a>
 </div>
 
-<br>
-
 <h2 align="left">Language and tools</h2>
 
 <div align="left">
