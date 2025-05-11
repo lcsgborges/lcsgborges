@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey there! 👋 </h1>
 
-<p align="left"> <b>My name is Lucas. I'm a software engineering student at the University of Brasilia.</b></p>
+<p align="left"> <b>My name is Lucas Guimarães Borges. I'm a software engineering student at the University of Brasilia.</b></p>
 <hr>
 
 <h2 align="left">Connect with me</h2>
