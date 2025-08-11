@@ -25,3 +25,17 @@
 </div>
 
 ---
+
+## Contact Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lcsgborges@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/lcsgborges/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="Instagram" />
+  </a>
+</div>
