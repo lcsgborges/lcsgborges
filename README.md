@@ -12,5 +12,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email" />
   </a>
 </div>
-
-<img src="https://c.tenor.com/jvbPYIiSRr4AAAAd/tenor.gif" align="right" width="150" style="border-radius: 10px; margin-top: 10px;" />
