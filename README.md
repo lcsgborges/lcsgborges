@@ -47,15 +47,6 @@ I’m a Software Engineering student at UnB and a backend-focused developer. Pas
   </tr>
 </table>
 
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsgborges&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=9f9f9f" height="150" alt="languages graph" />
-</div>
-
 ---
 
 <div align="center">
