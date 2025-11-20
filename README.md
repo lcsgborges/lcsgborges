@@ -1,40 +1,68 @@
-# 👋 Olá!
+<div align="center"> 
+  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;Backend+Developer;Software+Engineering" alt="Typing SVG" /> 
+</div> 
 
-**Sou o Lucas, estudante de Engenharia de Software na Universidade de Brasília (UnB) e Desenvolvedor Backend.**
-
----
-
-## Fale Comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lcsgborges@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email" />
-  </a>
-</div>
-
----
-
-<details>
-<summary>English Version</summary>
+<div align="center"> 
   
-# 👋 Hello!
-
-**I'm Lucas, Software Engineering student at the University of Brasília (UnB) and Backend Developer.**
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcsgborges&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&text_color=9f9f9f&icon_color=2F81F7)
+  
+</div>
 
 ---
 
-## Contact Me
+### About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lcsgborges@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email" />
+I’m a Software Engineering student at UnB and a backend-focused developer. Passionate about building scalable architectures and APIs. Currently working on projects involving microservices architecture and API development.
+
+---
+
+### Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgres,docker,git,linux&perline=15" />
   </a>
 </div>
 
-</details>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsgborges&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=9f9f9f" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:lcsgborges@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
