@@ -20,7 +20,7 @@ I’m a Software Engineering student at UnB and a backend-focused developer. Pas
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,react,nextjs,nodejs,express,nestjs,postgres,docker,git,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,react,nextjs,nodejs,express,postgres, mongodb, docker,git,linux&perline=15" />
   </a>
 </div>
 
