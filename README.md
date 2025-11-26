@@ -2,12 +2,6 @@
   <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;Backend+Developer;Software+Engineering" alt="Typing SVG" /> 
 </div> 
 
-<div align="center"> 
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcsgborges&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&text_color=9f9f9f&icon_color=2F81F7)
-  
-</div>
-
 ---
 
 ### About Me
