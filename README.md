@@ -14,7 +14,7 @@ I’m a Software Engineering student at UnB and a backend-focused developer. Pas
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,nodejs,express,postgres,mongo,docker,git,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,nodejs,express,c,cpp,postgres,mongo,docker,git,linux&perline=15" />
   </a>
 </div>
 
