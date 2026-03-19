@@ -1,12 +1,12 @@
 <div align="center"> 
-  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;Backend+Developer;Software+Engineering" alt="Typing SVG" /> 
+  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;Fullstack+Developer;Software+Engineering" alt="Typing SVG" /> 
 </div> 
 
 ---
 
 ### About Me
 
-I’m a Software Engineering student at UnB and a backend-focused developer. Passionate about building scalable architectures and APIs. Currently working on projects involving microservices architecture and API development.
+I’m a Software Engineering student at UnB and a fullstack developer. Passionate about building websites, systems, automations, AI agents, and REST APIs. Currently working on projects involving scalable applications, intelligent workflows, and modern web development.
 
 ---
 
@@ -14,32 +14,11 @@ I’m a Software Engineering student at UnB and a backend-focused developer. Pas
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,javascript,typescript,nodejs,express,c,cpp,postgres,mongo,docker,git,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,react,nextjs,nodejs,express,c,sqlite,postgres,docker,git,bash,linux&perline=15" />
   </a>
 </div>
 
 <br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
 
 ---
 
