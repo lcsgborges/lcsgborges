@@ -14,7 +14,7 @@ I’m a Software Engineering student at UnB and a fullstack developer. Passionat
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,python,fastapi,c,sqlite,postgres,mongo,docker,git,bash,linux&perline=18" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,nest,python,fastapi,c,sqlite,postgres,mongo,docker,git,bash,linux&perline=20" />
   </a>
 </div>
 
