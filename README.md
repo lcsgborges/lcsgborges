@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;<Fullstack+Developer/>;Software+Engineering" alt="Typing SVG" /> 
+  <img height="150" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Lucas!;Software+Engineering;<+Fullstack+Developer+>" alt="Typing SVG" /> 
 </div> 
 
 ---
@@ -10,11 +10,11 @@ I’m a Software Engineering student at UnB and a fullstack developer. Passionat
 
 ---
 
-### Tech Stack
+###
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,typescript,react,nextjs,nodejs,express,c,sqlite,postgres,docker,git,bash,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,python,fastapi,c,sqlite,postgres,mongo,docker,git,bash,linux&perline=9" />
   </a>
 </div>
 
