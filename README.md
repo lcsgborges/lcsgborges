@@ -12,9 +12,9 @@ I’m a Software Engineering student at UnB and a fullstack developer. Passionat
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,python,fastapi,c,sqlite,postgres,mongo,docker,git,bash,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,python,fastapi,c,sqlite,postgres,mongo,docker,git,bash,linux&perline=18" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@ I’m a Software Engineering student at UnB and a fullstack developer. Passionat
 
 ---
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
