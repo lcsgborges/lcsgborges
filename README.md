@@ -18,9 +18,9 @@ I’m a Software Engineering student at UnB and a fullstack developer. Passionat
   </a>
 </div>
 
-<br>
-
 ---
+
+### Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-guimaraes-dev/" target="_blank">
